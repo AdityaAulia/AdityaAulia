@@ -33,5 +33,5 @@ Membangun model identifikasi anomali data untuk mendeteksi pola operasional peni
 
 ## Kontak
 
-- **LinkedIn:** [Aditya Aulia](https://linkedin.com/in/aditya-aulia) *(ganti dengan link asli)*
+- **LinkedIn:** [Aditya Aulia](www.linkedin.com/in/aditya-aulia-8a6512297) 
 - **Email:** [adityaaulia1603@gmail.com](mailto:adityaaulia1603@gmail.com)
